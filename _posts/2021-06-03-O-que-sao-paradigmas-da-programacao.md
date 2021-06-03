@@ -1,7 +1,7 @@
 ---
 layout: post
 title: O que são paradigmas da programação
-description: Essa é uma situação bem comum principalmente com quem está iniciando em usar docker, efetuar a instalação e logo nos comandos receber uma mensagem de permissão negada....
+description: Paradigmas de programação estão presentes em todos os programas e sistemas criados, pois todo sistema tem uma estrutura ....
 date: 2021-06-03 12:00
 image: 
 tags: [fundamentos]
