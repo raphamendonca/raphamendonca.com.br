@@ -3,7 +3,7 @@ layout: post
 title: O que são paradigmas da programação
 description: Paradigmas de programação estão presentes em todos os programas e sistemas criados, pois todo sistema tem uma estrutura ....
 date: 2021-06-03 12:00
-image: 
+image:  'images/code_background.png'
 tags: [fundamentos]
 ---
 
