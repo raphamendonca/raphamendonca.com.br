@@ -9,7 +9,7 @@ tags: [fundamentos]
 
 Paradigmas de programação estão presentes em todos os programas e sistemas criados, pois todo sistema tem uma estrutura e uma forma de ser construido que foi pensado pelo seu desenvolvedor. 
 
-Pode-se descrever um paradigma de programação como sendo um contjunto de caracteristicas que determinam a forma como um programa é escrito, como ele vai ser comportar, como as linguagems executam esse codigo. 
+Pode-se descrever um paradigma de programação como sendo um contjunto de caracteristicas que determinam a forma como um programa é escrito, como ele vai ser comportar, como as linguagems executam esse codigo.  Um paradigma não é uma linguagem e sim a forma como soluciona os problemas com uma linguagem.
 
 Existem diversos paradigmas de programação sendo alguns deles mais utilizados que outros e da mesma forma que toda solução é direcionada a um problema especifico, cada paradigma foi pensado e assim composto para resolver determinados problemas. Aqui estão alguns exemplos de paradigmas conhecidos e utilizados
 
