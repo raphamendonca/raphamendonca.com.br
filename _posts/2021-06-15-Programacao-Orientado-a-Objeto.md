@@ -5,6 +5,7 @@ description: Programar criando representações de estruturas do mundo real, cri
 date:   2021-06-15 09:00:00 +0300
 image:  'images/code_background.png'
 tags: [fundamentos]
+category: tech
 ---
 
 A Programação Orientada a Objetsos, ou POO, é uma das formas de como é possível escrever seu código para resolver um problema. 

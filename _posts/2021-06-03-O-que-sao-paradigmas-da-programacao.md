@@ -5,6 +5,7 @@ description: Paradigmas de programação estão presentes em todos os programas 
 date: 2021-06-03 12:00
 image:  'images/code_background.png'
 tags: [fundamentos]
+category: tech
 ---
 
 Paradigmas de programação estão presentes em todos os programas e sistemas criados, pois todo sistema tem uma estrutura e uma forma de ser construido que foi pensado pelo seu desenvolvedor. 

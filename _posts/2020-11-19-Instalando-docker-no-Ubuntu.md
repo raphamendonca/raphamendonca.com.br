@@ -5,6 +5,7 @@ description: Neste rápido tutorial vou explicar como eu fiz a instalação no m
 date: 2020-11-19 10:47
 image:  '/images/posts/2020/11/19/docker_ubuntu.png'
 tags: [docker, linux]
+category: tech
 ---
 
 
