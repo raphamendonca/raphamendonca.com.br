@@ -5,7 +5,7 @@ description: Essa é uma situação bem comum principalmente com quem está inic
 date:   2020-11-20 15:01:35 +0300
 image:  'images/posts/2020/11/20/docker_sudo.png'
 tags:   [docker, linux]
-category: tech
+category: [tech]
 ---
 
 Essa é uma situação bem comum principalmente com quem está iniciando em usar docker, efetuar a instalação e logo nos comandos receber uma mensagem de permissão negada.

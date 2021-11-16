@@ -3,7 +3,7 @@
 
     {% if post.image %}
     <a class="article__image" href="{{post.url | prepend: site.baseurl}}">
-      <img class="lazy" data-src="{{post.image}}" alt="{{post.title}}">
+      <img class="lazy" data-src="/{{post.image}}" alt="{{post.title}}">
       <!-- {{site.baseurl}}{{post.image}} -->
     </a>
     {% endif %}

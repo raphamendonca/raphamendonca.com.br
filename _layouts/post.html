@@ -8,7 +8,8 @@ layout: default
       {% if page.image %}
       <div class="col col-6 col-t-12">
         <div class="image-box">
-          <img class="post-image lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+          <img class="post-image lazy" data-src="/{{page.image}}" alt="{{page.title}}">
+          <!-- {{site.baseurl}} -->
         </div>
       </div>
       {% endif %}

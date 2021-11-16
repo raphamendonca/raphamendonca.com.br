@@ -5,6 +5,7 @@ description:
 date:   2021-10-23 10:00:00 +0300
 image:  'images/posts/2021/10/23/keychron_k2.png'
 tags: [linux]
+category: [tech]
 ---
 
 Recentemente adquiri um teclado mecanico da Keychron modelo K2. Eu ja queria um teclado melhor que pudesse utilziar no pc, notebook pessoal, do trabalho e outros aparelhos como tablet e o keychron me pareceu uma otima opção. 

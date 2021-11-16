@@ -5,6 +5,7 @@ description:
 date:   2021-011-07 20:00:00 +0300
 image:  'images/posts/2021/11/07/apache_kafka.jpeg'
 tags: [fundamentos]
+category: [tech]
 ---
 
 Ao trabalhar com microsserviços, data science e diversas outras soluções hoje em dia é quase impossível não ter ouvido falar de Kafka, essa plataforma criada para processamento de streams com alta demanda e capacidade de processar dados em tempo real, tem revolucionado a forma como o desenvolvimento e a integração de sistemas tem funcionado.
