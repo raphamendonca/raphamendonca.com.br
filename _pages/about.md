@@ -58,9 +58,9 @@ Atualmente iniciei a prática de arco e flecha.
 Caso queira me contactar profissionalmente abaixo estão os links para os meus curriculos:
 
 <ul>
-  <li>
+  <!-- li>
     <a href="{{ site.baseurl }}/RaphaelMendonca_CV_en.pdf" class="nav__link">Curriculum EN</a>
-  </li>
+</li-->
 
   <!-- <li>
     <a href="{{ site.baseurl }}/RaphaelMendonca_CV_br.pdf" class="nav__link">Curriculum BR </a>
